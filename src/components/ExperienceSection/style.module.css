@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.container img {
+  margin-right: 1rem;
+  width: 100px;
+}
